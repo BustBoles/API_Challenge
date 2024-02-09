@@ -1,2 +1,2 @@
-# API_Challenge
+# HTML_Challenge
 Module 6 repo
